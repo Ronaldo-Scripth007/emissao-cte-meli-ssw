@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+build/
+dist/
+saida_exe/
+*.spec
+*.exe
+*.csv
+.env
